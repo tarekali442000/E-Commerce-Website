@@ -1,5 +1,7 @@
 import React from "react";
 import logo from "../imgs/logo.png";
+import technoLogo from "../imgs/image-removebg-preview.png";
+
 import { Facebook, Github, Linkedin, Twitter } from "lucide-react";
 import { Link } from "react-router-dom";
 function Footer() {
@@ -30,7 +32,11 @@ function Footer() {
         <div className="container mx-auto px-4">
           <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-4">
             <div className="mx-4">
-              <img src={logo} alt="logo" className="my-4 w-48 h-12 rounded" />
+              <img
+                src={technoLogo}
+                alt="logo"
+                className="my-4 w-48 h-12 rounded bg-white"
+              />
               <p>
                 We offer top brands like ASUS, MSI, Gigabyte, and more—all
                 curated for gamers, creators, and professionals who demand the

@@ -223,7 +223,6 @@ import { Link } from "react-router-dom";
 import logo from "../imgs/logo.png";
 import brandLogo from "../imgs/brandLogo.jpg";
 import technoLogo from "../imgs/image-removebg-preview.png";
-import goldIcon from "../imgs/goldIcon.png";
 
 import { useDispatch, useSelector } from "react-redux";
 import { setSearchTerm } from "../../features/products/ProductSlice";
