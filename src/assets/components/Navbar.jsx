@@ -221,6 +221,10 @@ import { ShoppingCart, User } from "lucide-react";
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import logo from "../imgs/logo.png";
+import brandLogo from "../imgs/brandLogo.jpg";
+import technoLogo from "../imgs/image-removebg-preview.png";
+import goldIcon from "../imgs/goldIcon.png";
+
 import { useDispatch, useSelector } from "react-redux";
 import { setSearchTerm } from "../../features/products/ProductSlice";
 
@@ -244,9 +248,9 @@ function Navbar() {
           <div className="flex justify-center md:justify-start ">
             <Link to="/" className="block">
               <img
-                src={logo}
+                src={technoLogo}
                 alt="logo"
-                className="w-40 h-10 object-contain rounded-md"
+                className="md:w-80 md:h-20 w-40 h-10 object-contain rounded-md"
               />
             </Link>
           </div>
