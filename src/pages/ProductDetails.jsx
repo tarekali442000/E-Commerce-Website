@@ -2,7 +2,7 @@ import React from "react";
 import { Link, useParams } from "react-router-dom";
 import { ShoppingCart } from "lucide-react";
 import { useDispatch, useSelector } from "react-redux";
-import NotFound from "../assets/imgs/undraw_file-search_cbur.svg";
+import NotFound from "/assets/imgs/undraw_file-search_cbur.svg";
 import { addToCart } from "../features/cart/cartSlice";
 
 function ProductDetails() {

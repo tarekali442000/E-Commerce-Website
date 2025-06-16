@@ -220,12 +220,12 @@
 import { ShoppingCart, User } from "lucide-react";
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
-import logo from "../imgs/logo.png";
-import brandLogo from "../imgs/brandLogo.jpg";
-import technoLogo from "../imgs/image-removebg-preview.png";
+// import logo from "../imgs/logo.png";
+// import brandLogo from "../imgs/brandLogo.jpg";
+import technoLogo from "/assets/imgs/image-removebg-preview.png";
 
 import { useDispatch, useSelector } from "react-redux";
-import { setSearchTerm } from "../../features/products/ProductSlice";
+import { setSearchTerm } from "../features/products/ProductSlice";
 
 function Navbar() {
   const [isOpen, setIsOpen] = useState(false);

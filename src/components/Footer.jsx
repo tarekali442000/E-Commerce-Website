@@ -1,6 +1,6 @@
 import React from "react";
-import logo from "../imgs/logo.png";
-import technoLogo from "../imgs/image-removebg-preview.png";
+// import logo from "/assets/imgs/logo.png";
+import technoLogo from "/assets/imgs/image-removebg-preview.png";
 
 import { Facebook, Github, Linkedin, Twitter } from "lucide-react";
 import { Link } from "react-router-dom";

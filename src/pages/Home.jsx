@@ -1,7 +1,7 @@
 import React from "react";
-import ProductGrid from "../assets/components/ProductGrid";
-import Footer from "../assets/components/Footer";
-import banner from "../assets/imgs/shape-bg.jpg";
+import ProductGrid from "../components/ProductGrid";
+import Footer from "../components/Footer";
+// import banner from "/assets/imgs/shape-bg.jpg";
 import { useDispatch } from "react-redux";
 import { setSelectedCateogry } from "../features/products/ProductSlice";
 const categories = [

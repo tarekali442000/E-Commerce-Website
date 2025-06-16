@@ -1,6 +1,6 @@
 import React from "react";
 import ProductCard from "./ProductCard";
-import NotFound from "../imgs/undraw_file-search_cbur.svg";
+import NotFound from "/assets/imgs/undraw_file-search_cbur.svg";
 
 import { useSelector } from "react-redux";
 
