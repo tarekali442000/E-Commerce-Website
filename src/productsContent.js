@@ -15,7 +15,7 @@ const products = [
     category: "Graphic Cards",
     description:
       "VENTUS brings a fundamentally solid experience to users looking for a performance graphics card. A sharp-looking updated design with TORX FAN 4.0 lets VENTUS breeze through any task.",
-    image: "/src/assets/imgs/gpu/msi-geforce-rtx-4060-ti-ventus-2x-black.jpg",
+    image: "/src/assets/imgs/msi-geforce-rtx-4060-ti-ventus-2x-black.jpg",
   },
   {
     id: 3,
@@ -33,7 +33,7 @@ const products = [
     category: "Graphic Cards",
     description:
       "Compact dual-fan GPU optimized for tight spaces, featuring IceStorm 2.0 cooling and support for real-time ray tracing.",
-    image: "/src/assets/imgs/gpu/zotac-geforce-rtx-4070-twin-edge.jpg",
+    image: "/src/assets/imgs/zotac-geforce-rtx-4070-twin-edge.jpg",
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ const products = [
     category: "Graphic Cards",
     description:
       "The TUF Gaming RX 7900 XT brings high-end AMD performance with a strong thermal design for 4K gaming enthusiasts.",
-    image: "/src/assets/imgs/gpu/asus-tuf-rx-7900-xt.jpg",
+    image: "/src/assets/imgs/asus-tuf-rx-7900-xt.jpg",
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ const products = [
     category: "Graphic Cards",
     description:
       "With a triple-fan layout and sleek design, the RX 6800 XT MERC319 offers powerful performance and low temperatures under load.",
-    image: "/src/assets/imgs/gpu/xfx-rx-6800-xt-merc319.jpg",
+    image: "/src/assets/imgs/xfx-rx-6800-xt-merc319.jpg",
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ const products = [
     category: "Graphic Cards",
     description:
       "Efficient and stylish, the RX 6700 XT MECH 2X delivers solid 1440p gaming performance with TORX FAN 3.0 cooling.",
-    image: "/src/assets/imgs/gpu/msi-rx-6700-xt-mech-2x.jpg",
+    image: "/src/assets/imgs/msi-rx-6700-xt-mech-2x.jpg",
   },
   {
     id: 8,
@@ -69,7 +69,7 @@ const products = [
     category: "Graphic Cards",
     description:
       "A powerhouse GPU with massive 24GB GDDR6X VRAM for 8K gaming, AI workloads, and professional 3D rendering tasks.",
-    image: "/src/assets/imgs/gpu/evga-geforce-rtx-3090-ftw3.jpg",
+    image: "/src/assets/imgs/evga-geforce-rtx-3090-ftw3.jpg",
   },
   {
     id: 9,
@@ -78,7 +78,7 @@ const products = [
     category: "Graphic Cards",
     description:
       "Hellhound's dual 100mm fans and blue LED design deliver excellent thermal performance for intense gaming sessions.",
-    image: "/src/assets/imgs/gpu/powercolor-rx-7800-xt-hellhound.jpg",
+    image: "/src/assets/imgs/powercolor-rx-7800-xt-hellhound.jpg",
   },
   {
     id: 10,
@@ -87,7 +87,7 @@ const products = [
     category: "Graphic Cards",
     description:
       "Intel’s Arc A770 is a budget-friendly option for 1080p and light 1440p gaming, offering AV1 hardware encoding and XeSS support.",
-    image: "/src/assets/imgs/gpu/asrock-arc-a770-phantom.jpg",
+    image: "/src/assets/imgs/asrock-arc-a770-phantom.jpg",
   },
   // 💻 Laptops
   {
@@ -97,7 +97,7 @@ const products = [
     category: "Graphic Cards",
     description:
       "The SFF-ready ProArt GeForce RTX™ 4070 SUPER OC Edition 12GB GDDR6X brings elegant and minimalist style to empower creator PC builds with full-scale GeForce RTX™ 40 SUPER Series performance.",
-    image: "/src/assets/imgs/gpu/asus-proart-geforce-rtx-4070.jpg",
+    image: "/src/assets/imgs/asus-proart-geforce-rtx-4070.jpg",
   },
   {
     id: 12,
@@ -154,7 +154,7 @@ const products = [
     category: "Graphic Cards",
     description:
       "Powered by NVIDIA DLSS 3, ultra-efficient Ada Lovelace architecture, and full ray tracing, this GPU is ideal for gamers and creators alike.",
-    image: "/src/assets/imgs/gpu/gigabyte-geforce-rtx-4080-gaming-oc.jpg",
+    image: "/src/assets/imgs/gigabyte-geforce-rtx-4080-gaming-oc.jpg",
   },
   {
     id: 18,
