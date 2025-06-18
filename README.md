@@ -8,7 +8,7 @@ A fully functional and responsive E-Commerce website built using **React.js** an
 
 
 
-🔍 Product Details:
+🔍 Product Details: 
 
 ![image](https://github.com/user-attachments/assets/7c872a1e-dc64-43b5-927d-e223508e68c9)
 
