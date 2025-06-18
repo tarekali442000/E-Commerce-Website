@@ -2,7 +2,24 @@
 
 A fully functional and responsive E-Commerce website built using **React.js** and **Redux Toolkit**, designed for users to browse, and search easily. Built with modern UI/UX and scalable architecture.
 
-![full screenshot website](https://github.com/user-attachments/assets/0ff309df-bb4e-4f9b-a5f7-aa10c737d938)
+ 🏠 Home Page:
+ 
+![screencapture-localhost-5173-2025-06-16-20_08_44](https://github.com/user-attachments/assets/b6fd5c28-884f-4bb6-ab89-1ddf400af720)
+
+
+
+🔍 Product Details:
+
+![image](https://github.com/user-attachments/assets/7c872a1e-dc64-43b5-927d-e223508e68c9)
+
+
+
+🛒 Shopping Cart:
+
+![image](https://github.com/user-attachments/assets/70301a14-ed21-4484-a4ba-f2b74863a64f)
+
+
+
 
 ## 🌐 Live Demo
 
