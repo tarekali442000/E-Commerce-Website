@@ -23,7 +23,7 @@ A fully functional and responsive E-Commerce website built using **React.js** an
 
 ## 🌐 Live Demo
 
-[Visit Website](https://techno-audiophile-store.netlify.app/)
+[Visit Website]https://tecno-store-ta.netlify.app/
 
 ## 🚀 Features
 
