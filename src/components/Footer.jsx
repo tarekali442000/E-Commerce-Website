@@ -108,9 +108,9 @@ function Footer() {
             </div>
             <div className="mx-4">
               <h2 className="text-2xl font-semibold my-4">Contact Info</h2>
-              <p className="text-sm">10 Gehan, Mansoura, Daqahlia, Egypt</p>
-              <p className="text-sm ">+20 103 085 2562</p>
-              <p className="text-sm ">tarek.ali.hamed.amr@gmail.com</p>
+              <p className="text-sm">your address</p>
+              <p className="text-sm ">your phone</p>
+              <p className="text-sm ">your email</p>
             </div>
           </div>
         </div>
